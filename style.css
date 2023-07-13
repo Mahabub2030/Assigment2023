@@ -234,7 +234,7 @@ section.feature{
   input [text="text"]{
     align-items: center;
     border: none;
-    width:100%;
+    width:43rem;
     height: 50px;
     padding: 0 16px;
   }
